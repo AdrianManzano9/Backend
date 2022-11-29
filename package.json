@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "sql",
+  "version": "0.0.1",
+  "description": "Ni dea",
+  "main": "server.js",
+  "author": "Adrián Manzano",
+  "license": "Apache-2.0"
+}
